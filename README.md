@@ -1,0 +1,1 @@
+SimpleComputer and SimpleAssembler realisation
